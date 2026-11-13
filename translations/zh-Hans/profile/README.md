@@ -2,6 +2,8 @@
 
 > **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/.github/blob/49bb9a0e2229d5cd040e122379f3ad353d41502b/profile/README.md)
 
+> 英文页面的视觉识别已更新；本译稿需要同步，仍待人工审核。
+
 [English](../../../profile/README.md) | [中文研究指南（待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/README.md)
 
 Open Source Research Initiative（OSRI）是一项由创始人牵头的倡议，正在寻找不同领域的协作者，共同研究问题。OSRI 希望通过由人主导的 Agentic-Powered-Research 汇集专业知识，并在 Git 中记录问题、证据、分析与发现，使协作者能够追踪并延续研究。

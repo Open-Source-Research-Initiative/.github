@@ -1,3 +1,5 @@
+![OSRI: Different fields. Shared questions. Human-driven Agentic-Powered-Research.](assets/prism-header.png)
+
 # Open Source Research Initiative (OSRI)
 
 English | [简体中文（待审核）](https://github.com/Open-Source-Research-Initiative/.github/blob/main/translations/zh-Hans/profile/README.md)
