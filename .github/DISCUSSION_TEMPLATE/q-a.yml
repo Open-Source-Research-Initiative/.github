@@ -1,0 +1,41 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask a question, request a resource, or get help. A short question is enough to start.
+        Use public metadata only. Keep credentials, personal data, restricted files, and confidential plans out of this discussion.
+        For confidential requests, contact cole.lyons@pennmedicine.upenn.edu directly.
+        The administrator will help agree the permitted access, delivery method, and storage.
+        Do not send credentials. Agree on delivery and storage before sending restricted material.
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: What would you like help with?
+      options:
+        - A question or research method
+        - A resource request
+        - A skill, plugin, or software tool
+        - Something else
+    validations:
+      required: false
+  - type: textarea
+    id: question
+    attributes:
+      label: Question or request
+      description: For a resource request, give its public title, DOI, or link and explain why you need it.
+    validations:
+      required: true
+  - type: input
+    id: project
+    attributes:
+      label: Related project or research area
+      description: Add a link or area if you have one.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Useful context
+      description: Add sources, what you tried, or a deadline if relevant. You can leave this blank.
+    validations:
+      required: false

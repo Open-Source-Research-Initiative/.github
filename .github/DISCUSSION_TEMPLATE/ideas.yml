@@ -1,0 +1,36 @@
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bring a question, a paper, a dataset lead, or a problem worth exploring.
+        You do not need a full proposal or proof that the topic is new.
+        Keep confidential plans and restricted material out of public discussions.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to understand or improve?
+      description: State the question or idea in your own words.
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Why could this be useful?
+      description: Describe who could use the answer or what it could help explain.
+    validations:
+      required: false
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or examples
+      description: Add public papers, datasets, models, or related work if you have them. Mark unchecked leads.
+    validations:
+      required: false
+  - type: textarea
+    id: first-step
+    attributes:
+      label: A possible first step
+      description: Suggest a small task or the help you would need. It is fine not to know yet.
+    validations:
+      required: false
