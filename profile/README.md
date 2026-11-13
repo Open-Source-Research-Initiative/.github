@@ -12,6 +12,8 @@ The Open Source Research Initiative (OSRI) is a founder-led initiative. It seeks
 
 Follow the [short research guide](https://github.com/Open-Source-Research-Initiative/osri/blob/main/START_HERE.md), from a first question to an output you can share. Use the [project template](https://github.com/Open-Source-Research-Initiative/project-template) when ready.
 
+[Choose a contribution](https://github.com/Open-Source-Research-Initiative/osri/blob/main/CONTRIBUTING.md) or view [contributor activity](https://github.com/Open-Source-Research-Initiative/osri/blob/main/community/ACTIVITY.md).
+
 Find [research topics](https://github.com/Open-Source-Research-Initiative/osri/tree/main/topics), [resources](https://github.com/Open-Source-Research-Initiative/osri/tree/main/resources), and [shared rules](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/contribution-standards.md) in the [OSRI hub](https://github.com/Open-Source-Research-Initiative/osri). Your own agent is welcome; no paid tool bundle is required.
 
 Join the [starter discussion](https://github.com/Open-Source-Research-Initiative/.github/discussions/1) for the main links and help getting started.
