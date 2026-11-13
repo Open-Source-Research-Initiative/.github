@@ -14,7 +14,32 @@ A research community where people lead Agentic-Powered-Research across fields, c
 
 ## Research areas
 
-Initial research directions remain to be developed. Evidence synthesis and meta-analysis are an early possibility to explore; specific research questions, fields, and projects have not yet been selected.
+OSRI will begin with Healthcare, Engineering, Informatics, Economics, Social and Behavioral Sciences, and Public Policy, with room for related questions and contributions from other disciplines.
+
+- **Healthcare:** Public health, health systems research, evidence synthesis, and meta-analysis, with an initial focus on nonclinical research.
+- **Engineering:** Systems engineering, engineering management, Operations Research, and Decision Science, using research methods that do not require physical laboratory experiments.
+- **Informatics:** Bioinformatics, health and research informatics, information systems, and Computational Natural Sciences, including computational biology, chemistry, physics, and materials modeling. Work uses existing evidence, data, and computational methods without physical laboratory experiments.
+- **Economics:** Health and public economics, incentives, resource allocation, and the economics of research and innovation.
+- **Social and Behavioral Sciences:** Human judgment, collaboration, organizational behavior, and how people work with Agentic-Powered-Research.
+- **Public Policy:** Policy analysis and evaluation, governance, institutions, technology policy, and public programs.
+
+Evidence synthesis, meta-analysis, modeling, and simulation can support research across these areas. Specific research questions and projects will develop with collaborators.
+
+## OSRI Simulation Lab
+
+The proposed **OSRI Simulation Lab** would support virtual experiments across the research areas, including computational investigations of processes normally studied in laboratories. People would direct the work, assess the models and evidence, and determine which conclusions the results support.
+
+## Publication goals
+
+OSRI aims to produce and share research through journal articles, full conference papers, preprints such as arXiv, and substantive research blogs and technical essays.
+
+Publication outputs will be tracked by type. Related outputs will be linked to the same research work so that publication volume and the number of distinct works can both be reported. Peer-review status will be recorded separately.
+
+## Meta-research and administration
+
+OSRI's administrators will study and improve the group's research practices, including reproducibility, evidence quality, collaboration, and the use of Agentic-Powered-Research. This organization-wide meta-research is part of administering OSRI across its repositories and the shared Simulation Lab.
+
+The role includes evaluating how Agentic-Powered-Research affects research quality, collaboration, time, and use of resources; maintaining shared research records; and using findings to improve how OSRI works.
 
 ## Invitation to collaborate
 
