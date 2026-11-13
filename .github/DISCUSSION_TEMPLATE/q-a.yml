@@ -2,10 +2,11 @@ body:
   - type: markdown
     attributes:
       value: |
+        Start with the [OSRI research guide](https://github.com/Open-Source-Research-Initiative/osri/blob/main/START_HERE.md), or ask your question here.
         Ask a question, request a resource, or get help. A short question is enough to start.
         Use public metadata only. Keep credentials, personal data, restricted files, and confidential plans out of this discussion.
         For confidential requests, contact cole.lyons@pennmedicine.upenn.edu directly.
-        The administrator will help agree the permitted access, delivery method, and storage.
+        The administrator will help agree on permitted access, delivery, and storage.
         Do not send credentials. Agree on delivery and storage before sending restricted material.
   - type: dropdown
     id: request-type

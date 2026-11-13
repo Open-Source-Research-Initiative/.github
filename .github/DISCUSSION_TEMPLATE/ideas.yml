@@ -3,6 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
+        The [topic guide](https://github.com/Open-Source-Research-Initiative/osri/tree/main/topics) can help you develop an idea. You can also start here.
         Bring a question, a paper, a dataset lead, or a problem worth exploring.
         You do not need a full proposal or proof that the topic is new.
         Keep confidential plans and restricted material out of public discussions.

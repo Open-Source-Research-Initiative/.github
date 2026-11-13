@@ -1,0 +1,58 @@
+name: Request a research resource
+description: Ask an OSRI administrator for an article, dataset, database query, or other research resource.
+title: "Resource request: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Start a public request in [Q&A](https://github.com/Open-Source-Research-Initiative/.github/discussions/new?category=q-a).
+        Use this issue to track an agreed request, or if you cannot use Discussions. Link the discussion when safe.
+        Use public metadata only. A citation, purpose, and description of what you need are enough to start.
+        Cole / @ajhcs is the initial administrator. Access depends on the resource and its permitted uses.
+        Keep credentials, personal data, restricted files, and confidential plans out of this issue.
+        For a private request, contact [Cole](mailto:cole.lyons@pennmedicine.upenn.edu) directly. You do not need to open a public issue.
+        Agree on delivery and storage before sending restricted material.
+  - type: input
+    id: resource
+    attributes:
+      label: Resource
+      description: Give a public title, citation, DOI, catalog identifier, or provider link. For a confidential request, enter "Private follow-up requested".
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Project or research purpose
+      description: Link a project or explain the question. Leave confidential details for the agreed private route.
+    validations:
+      required: false
+  - type: textarea
+    id: need
+    attributes:
+      label: What would help?
+      description: Describe the article, pages, dataset version or subset, query, analysis, software, or other resource needed.
+    validations:
+      required: false
+  - type: input
+    id: timing
+    attributes:
+      label: Timing
+      description: Add a deadline and reason if relevant.
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Open alternatives
+      description: List alternatives you checked, or enter "Not checked yet".
+    validations:
+      required: false
+  - type: dropdown
+    id: private-follow-up
+    attributes:
+      label: Is private follow-up needed?
+      options:
+        - "No"
+        - "Yes. Please arrange a private route."
+    validations:
+      required: false
