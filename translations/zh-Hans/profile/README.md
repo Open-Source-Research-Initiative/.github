@@ -1,8 +1,8 @@
+![OSRI：不同领域，共同问题。由人主导的 Agentic-Powered-Research。](../../../profile/assets/prism-header.png)
+
 # Open Source Research Initiative（OSRI）
 
-> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/.github/blob/49bb9a0e2229d5cd040e122379f3ad353d41502b/profile/README.md)
-
-> 英文页面的视觉识别已更新；本译稿需要同步，仍待人工审核。
+> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/.github/blob/ceedc246612c168e632d2e69775677e4a035c37b/profile/README.md)
 
 [English](../../../profile/README.md) | [中文研究指南（待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/README.md)
 
@@ -13,6 +13,8 @@ Open Source Research Initiative（OSRI）是一项由创始人牵头的倡议，
 ## 开始研究
 
 遵循[研究入门指南（待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/START_HERE.md)，从最初的问题逐步形成可以公开的成果。准备就绪后，使用[项目模板（待审核译稿）](https://github.com/Open-Source-Research-Initiative/project-template/blob/main/translations/zh-Hans/README.md)。
+
+[选择一项贡献（待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/CONTRIBUTING.md)，或查看[贡献记录（英文）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/community/ACTIVITY.md)。
 
 在 [OSRI 资料中心（待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/README.md)查找[研究主题（英文）](https://github.com/Open-Source-Research-Initiative/osri/tree/main/topics)、[资源（英文）](https://github.com/Open-Source-Research-Initiative/osri/tree/main/resources)与[共同规则（待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/governance/contribution-standards.md)。欢迎使用自己的智能体，无须付费工具套装。
 
