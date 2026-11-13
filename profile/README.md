@@ -12,6 +12,8 @@ Find [research topics](https://github.com/Open-Source-Research-Initiative/osri/t
 
 Join the [starter discussion](https://github.com/Open-Source-Research-Initiative/.github/discussions/1) for the main links and help getting started.
 
+Follow the guides for [writing](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/writing-style.md), [translation](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/translation.md), and [visual identity](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/visual-identity.md).
+
 ## Mission
 
 To bring people across disciplines together to lead Agentic-Powered-Research, synthesize evidence, and find answers through open, traceable research.
