@@ -1,5 +1,7 @@
 # Open Source Research Initiative (OSRI)
 
+English | [简体中文（待审核）](https://github.com/Open-Source-Research-Initiative/.github/blob/main/translations/zh-Hans/profile/README.md)
+
 The Open Source Research Initiative (OSRI) is a founder-led initiative. It seeks collaborators from different fields to investigate research questions together. OSRI aims to combine expertise through human-driven Agentic-Powered-Research. It aims to track questions, evidence, analyses, and findings in Git so collaborators can follow and extend the work.
 
 **Agentic-Powered-Research is human-driven:** people define the research questions, direct the work, and evaluate the evidence and conclusions.
@@ -11,6 +13,8 @@ Follow the [short research guide](https://github.com/Open-Source-Research-Initia
 Find [research topics](https://github.com/Open-Source-Research-Initiative/osri/tree/main/topics), [resources](https://github.com/Open-Source-Research-Initiative/osri/tree/main/resources), and [shared rules](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/contribution-standards.md) in the [OSRI hub](https://github.com/Open-Source-Research-Initiative/osri). Your own agent is welcome; no paid tool bundle is required.
 
 Join the [starter discussion](https://github.com/Open-Source-Research-Initiative/.github/discussions/1) for the main links and help getting started.
+
+[French and Spanish maintainers wanted; Chinese reviewers welcome](https://github.com/Open-Source-Research-Initiative/.github/discussions/3).
 
 Follow the guides for [writing](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/writing-style.md), [translation](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/translation.md), and [visual identity](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/visual-identity.md).
 
