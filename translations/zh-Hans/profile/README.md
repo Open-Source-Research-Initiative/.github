@@ -2,7 +2,7 @@
 
 # Open Source Research Initiative（OSRI）
 
-> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/.github/blob/ceedc246612c168e632d2e69775677e4a035c37b/profile/README.md)
+> **待审核译稿（needs-update）** · 英文原文已更新；请以当前英文页面为准。 · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/.github/blob/ceedc246612c168e632d2e69775677e4a035c37b/profile/README.md)
 
 [English](../../../profile/README.md) | [中文研究指南（待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/README.md)
 
