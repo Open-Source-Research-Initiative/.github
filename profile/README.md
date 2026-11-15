@@ -10,9 +10,11 @@ The Open Source Research Initiative (OSRI) is a founder-led initiative. It seeks
 
 ## Start researching
 
-Follow the [short research guide](https://github.com/Open-Source-Research-Initiative/osri/blob/main/START_HERE.md), from a first question to an output you can share. Use the [project template](https://github.com/Open-Source-Research-Initiative/project-template) when ready.
+Follow the [short research guide](https://github.com/Open-Source-Research-Initiative/osri/blob/main/START_HERE.md), from a first question to an output you can share. Use the [research repository template](https://github.com/Open-Source-Research-Initiative/research-repository-template) when ready.
 
-[Choose a contribution](https://github.com/Open-Source-Research-Initiative/osri/blob/main/CONTRIBUTING.md) or view [contributor activity](https://github.com/Open-Source-Research-Initiative/osri/blob/main/community/ACTIVITY.md).
+Browse the [research directory](https://github.com/Open-Source-Research-Initiative/osri/blob/main/projects/README.md). Each study has its own repository, named after its paper or working title. Read the repository README for the question and current state, open **Issues** for tasks, and use **Pull requests** to propose changes.
+
+Start with **[Medical XR: from capabilities to sustainable use](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use)** or [choose another contribution](https://github.com/Open-Source-Research-Initiative/osri/blob/main/CONTRIBUTING.md). Follow [contributor activity](https://github.com/Open-Source-Research-Initiative/osri/blob/main/community/ACTIVITY.md).
 
 Find [research topics](https://github.com/Open-Source-Research-Initiative/osri/tree/main/topics), [resources](https://github.com/Open-Source-Research-Initiative/osri/tree/main/resources), and [shared rules](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/contribution-standards.md) in the [OSRI hub](https://github.com/Open-Source-Research-Initiative/osri). Your own agent is welcome; no paid tool bundle is required.
 
