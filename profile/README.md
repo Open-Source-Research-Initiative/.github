@@ -10,9 +10,9 @@ The Open Source Research Initiative (OSRI) helps people develop research and sub
 
 ## Find a free publication route
 
-Use the [searchable publication directory](https://open-source-research-initiative.github.io/venues/) or its [GitHub repository](https://github.com/Open-Source-Research-Initiative/free-publication-directory) to compare venues within a research field. Records include fee conditions, publication requirements, and available evidence on editorial difficulty and citation impact. Conditional funding and incompletely verified routes stay separate from verified free routes.
+Use the [searchable publication directory](https://open-source-research-initiative.github.io/venues/) or its [GitHub repository](https://github.com/Open-Source-Research-Initiative/free-publication-directory) to compare venues within a research field. Records separate submission and publication costs, link AI policies and disclosure instructions, distinguish venue and publisher geography from author eligibility, and include reported acceptance and citation metrics. Conditional funding and incompletely verified routes stay separate from verified free routes.
 
-Read the [free publication guide](https://open-source-research-initiative.github.io/guides/publications/free-publication/) and the venue's current author instructions before choosing a target. Difficulty bands are provisional judgments; missing evidence remains unknown.
+Read the [free publication guide](https://open-source-research-initiative.github.io/guides/publications/free-publication/) and the venue's current author instructions before choosing a target. Listed venues must permit substantive AI-assisted research, analysis or code, and manuscript drafting with human responsibility and disclosure. Missing costs, eligibility rules, and metrics remain unverified.
 
 ## Start researching
 
