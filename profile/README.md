@@ -4,9 +4,15 @@
 
 English | [简体中文（待审核）](https://github.com/Open-Source-Research-Initiative/.github/blob/main/translations/zh-Hans/profile/README.md)
 
-The Open Source Research Initiative (OSRI) is a founder-led initiative. It seeks collaborators from different fields to investigate research questions together. OSRI aims to combine expertise through human-driven Agentic-Powered-Research. It aims to track questions, evidence, analyses, and findings in Git so collaborators can follow and extend the work.
+The Open Source Research Initiative (OSRI) helps people develop research and submit it through publication routes that are free to authors. It is founder-led and seeks collaborators from different fields. People direct Agentic-Powered-Research and track questions, evidence, analyses, and findings in Git so others can follow and extend the work.
 
 **Agentic-Powered-Research is human-driven:** people define the research questions, direct the work, and evaluate the evidence and conclusions.
+
+## Find a free publication route
+
+Use the [searchable publication directory](https://open-source-research-initiative.github.io/venues/) or its [GitHub repository](https://github.com/Open-Source-Research-Initiative/free-publication-directory) to compare venues within a research field. Records include fee conditions, publication requirements, and available evidence on editorial difficulty and citation impact. Conditional funding and incompletely verified routes stay separate from verified free routes.
+
+Read the [free publication guide](https://open-source-research-initiative.github.io/guides/publications/free-publication/) and the venue's current author instructions before choosing a target. Difficulty bands are provisional judgments; missing evidence remains unknown.
 
 ## Start researching
 
@@ -56,7 +62,7 @@ The proposed **OSRI Simulation Lab** would support virtual experiments across th
 
 ## Publication goals
 
-OSRI aims to produce and share research through journal articles, full conference papers, preprints such as arXiv, and substantive research blogs and technical essays.
+OSRI prioritizes credible venues with free submission and a free standard publication route. Research outputs can include journal articles, full conference papers, preprints such as arXiv, and substantive research blogs and technical essays.
 
 Publication outputs will be tracked by type. Related outputs will link to the same research work. This will let OSRI report both publication volume and the number of distinct works. Peer-review status will be recorded separately.
 
