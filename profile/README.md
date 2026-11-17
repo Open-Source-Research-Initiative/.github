@@ -2,7 +2,9 @@
 
 # Open Source Research Initiative (OSRI)
 
-English | [简体中文（待审核）](https://github.com/Open-Source-Research-Initiative/.github/blob/main/translations/zh-Hans/profile/README.md)
+English | [简体中文](https://open-source-research-initiative.github.io/zh-hans/) | [한국어](https://open-source-research-initiative.github.io/ko/) | [Español](https://open-source-research-initiative.github.io/es/) | [Français](https://open-source-research-initiative.github.io/fr/) | [العربية](https://open-source-research-initiative.github.io/ar/)
+
+Website translations are machine drafts awaiting fluent human review. [Help translate or verify a page](https://github.com/orgs/Open-Source-Research-Initiative/discussions/3).
 
 The Open Source Research Initiative (OSRI) helps people develop research and submit it through publication routes that are free to authors. It is founder-led and seeks collaborators from different fields. People direct Agentic-Powered-Research and track questions, evidence, analyses, and findings in Git so others can follow and extend the work.
 
@@ -26,7 +28,7 @@ Find [research topics](https://github.com/Open-Source-Research-Initiative/osri/t
 
 Join the [starter discussion](https://github.com/Open-Source-Research-Initiative/.github/discussions/1) for the main links and help getting started.
 
-[French and Spanish maintainers wanted; Chinese reviewers welcome](https://github.com/Open-Source-Research-Initiative/.github/discussions/3).
+[Translators and human reviewers wanted: Chinese, Korean, Spanish, French, and Arabic](https://github.com/Open-Source-Research-Initiative/.github/discussions/3).
 
 Follow the guides for [writing](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/writing-style.md), [translation](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/translation.md), and [visual identity](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/visual-identity.md).
 
